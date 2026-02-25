@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+.env
+*.egg-info/
+dist/
+build/
+
+# ChromaDB data
+chroma_db/
+
+# Uploaded documents
+uploads/
+
+# Node.js
+node_modules/
+.next/
+out/
+.DS_Store
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+Thumbs.db
+.DS_Store
